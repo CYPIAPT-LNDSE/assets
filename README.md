@@ -1,1 +1,3 @@
-# assets
+# Assets
+
+Arbitrary publicly-hosted assets.
